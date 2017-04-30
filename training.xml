@@ -1,0 +1,78 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>imglab dataset</name>
+<comment>Created by imglab tool.</comment>
+<images>
+  <image file='100_1477281636.jpg'>    
+    <box top='26' left='315' width='86' height='92'>
+      <label>coin</label>
+    </box>
+  </image>
+  <image file='100_1477281702.jpg'>
+    <box top='311' left='364' width='90' height='85'>
+      <label>coin</label>
+    </box>
+  </image>
+  <image file='100_1477281774.jpg'>
+    <box top='390' left='328' width='90' height='81'>
+      <label>coin</label>
+    </box>
+  </image>
+  <image file='10_1477289454.jpg'>
+    <box top='173' left='453' width='68' height='62'>
+      <label>coin</label>
+    </box>
+  </image>
+  <image file='10_1477289538.jpg'>
+    <box top='358' left='29' width='63' height='65'>
+      <label>coin</label>
+    </box>
+  </image>
+  <image file='10_1477289586.jpg'>
+    <box top='343' left='173' width='69' height='67'>
+      <label>coin</label>
+    </box>
+  </image>
+  <image file='25_1477287264.jpg'>
+    <box top='361' left='430' width='77' height='81'>
+      <label>coin</label>
+    </box>
+  </image>
+  <image file='25_1477287342.jpg'>
+    <box top='294' left='284' width='79' height='80'>
+      <label>coin</label>
+    </box>
+  </image>
+  <image file='25_1477287390.jpg'>
+    <box top='124' left='243' width='86' height='78'>
+      <label>coin</label>
+    </box>
+  </image>
+  <image file='50_1477283388.jpg'>
+    <box top='381' left='263' width='75' height='81'>
+      <label>coin</label>
+    </box>
+  </image>
+  <image file='50_1477283502.jpg'>
+    <box top='177' left='373' width='81' height='78'>
+      <label>coin</label>
+    </box>
+  </image>
+  <image file='50_1477283574.jpg'>
+    <box top='136' left='9' width='78' height='72'>
+      <label>coin</label>
+    </box>
+  </image>
+  <image file='5_1477291872.jpg'>
+    <box top='379' left='382' width='76' height='68'>
+      <label>coin</label>
+    </box>
+  </image>
+  <image file='5_1477292046.jpg'>
+    <box top='202' left='455' width='73' height='70'>
+      <label>coin</label>
+    </box>
+  </image>
+</images>
+</dataset>
